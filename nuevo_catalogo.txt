@@ -1,0 +1,1422 @@
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para <!DOCTYPE html>
+ es []
+La nueva lista de precios para <html lang="en">
+ es []
+La nueva lista de precios para   <head>
+ es []
+La nueva lista de precios para     <meta charset="utf-8">
+ es []
+La nueva lista de precios para   <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+ es []
+La nueva lista de precios para   <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+ es []
+La nueva lista de precios para   <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+ es []
+La nueva lista de precios para   <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+ es []
+La nueva lista de precios para   <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+ es []
+La nueva lista de precios para   <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+ es []
+La nueva lista de precios para   <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-e04a23d39bf81b7db3c635177756ef51bc171feb440be9e174933c6eb56382da.css" integrity="sha256-4Eoj05v4G32zxjUXd1bvUbwXH+tEC+nhdJM8brVjgto=" media="all" rel="stylesheet" />
+ es []
+La nueva lista de precios para   <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-df2cdfc6957e3fbd42155d8b95bb109f6d4e35768227a2401b9b6ea5bfb88e83.css" integrity="sha256-3yzfxpV+P71CFV2LlbsQn21ONXaCJ6JAG5tupb+4joM=" media="all" rel="stylesheet" />
+ es []
+La nueva lista de precios para   
+ es []
+La nueva lista de precios para   
+ es []
+La nueva lista de precios para   
+ es []
+La nueva lista de precios para   
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta name="viewport" content="width=device-width">
+ es []
+La nueva lista de precios para   
+ es []
+La nueva lista de precios para   <title>sem09act17clase32/catalogo.txt at master · Luippo/sem09act17clase32</title>
+ es []
+La nueva lista de precios para   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+ es []
+La nueva lista de precios para   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+ es []
+La nueva lista de precios para   <meta property="fb:app_id" content="1401488693436528">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para     <meta content="https://avatars0.githubusercontent.com/u/17370287?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="Luippo/sem09act17clase32" property="og:title" /><meta content="https://github.com/Luippo/sem09act17clase32" property="og:url" /><meta content="Contribute to sem09act17clase32 development by creating an account on GitHub." property="og:description" />
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <link rel="assets" href="https://assets-cdn.github.com/">
+ es []
+La nueva lista de precios para   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTc1MjY4Nzg1OmI0NjdkZjJjYTdhYWQ0MDFjZWQwMTEwMTcxNGZlNGVlZDJlOTdlMjllOWI3YjMwM2E4MjUzYjlmN2UxMTY1MTI=--09e5355ae99717efd5bb2ac0b018d5afc28bce27">
+ es []
+La nueva lista de precios para   <meta name="pjax-timeout" content="1000">
+ es []
+La nueva lista de precios para   <link rel="sudo-modal" href="/sessions/sudo_modal">
+ es []
+La nueva lista de precios para   <meta name="request-id" content="AEF4:3851:4C697B:6BDAA6:595D9C8E" data-pjax-transient>
+ es []
+La nueva lista de precios para   
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta name="selected-link" value="repo_source" data-pjax-transient>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+ es []
+La nueva lista de precios para <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+ es []
+La nueva lista de precios para     <meta name="google-analytics" content="UA-3769691-2">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="AEF4:3851:4C697B:6BDAA6:595D9C8E" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="28021246" name="octolytics-actor-id" /><meta content="vladigonzalez" name="octolytics-actor-login" /><meta content="f15e9ef934b4157b3b92636838782fc21c49bbf94d2e4cdad8eca6b09df82455" name="octolytics-actor-hash" />
+ es []
+La nueva lista de precios para <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta class="js-ga-set" name="dimension1" content="Logged In">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       <meta name="hostname" content="github.com">
+ es []
+La nueva lista de precios para   <meta name="user-login" content="vladigonzalez">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       <meta name="expected-hostname" content="github.com">
+ es []
+La nueva lista de precios para     <meta name="js-proxy-site-detection-payload" content="OTIyM2EzOTg4Njg5MDMxMTU5M2ZhYzA2YmMwNTRjMzg3ZWZkN2QwMjAyMjVkYzI0YjY2YWE4ZmJkYTAyYThlZnx7InJlbW90ZV9hZGRyZXNzIjoiMjAwLjgzLjIyNS4xNzgiLCJyZXF1ZXN0X2lkIjoiQUVGNDozODUxOjRDNjk3Qjo2QkRBQTY6NTk1RDlDOEUiLCJ0aW1lc3RhbXAiOjE0OTkzMDcxNTYsImhvc3QiOiJnaXRodWIuY29tIn0=">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta name="html-safe-nonce" content="5674fddc438ab3e7382ca01e079a77f837d5c116">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta http-equiv="x-pjax-version" content="978b41bacc54492b2d1e5a63ecef171b">
+ es []
+La nueva lista de precios para   
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       <link href="https://github.com/Luippo/sem09act17clase32/commits/master.atom" rel="alternate" title="Recent Commits to sem09act17clase32:master" type="application/atom+xml">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta name="description" content="Contribute to sem09act17clase32 development by creating an account on GitHub.">
+ es []
+La nueva lista de precios para   <meta name="go-import" content="github.com/Luippo/sem09act17clase32 git https://github.com/Luippo/sem09act17clase32.git">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta content="17370287" name="octolytics-dimension-user_id" /><meta content="Luippo" name="octolytics-dimension-user_login" /><meta content="96266746" name="octolytics-dimension-repository_id" /><meta content="Luippo/sem09act17clase32" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="96266746" name="octolytics-dimension-repository_network_root_id" /><meta content="Luippo/sem09act17clase32" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <link rel="canonical" href="https://github.com/Luippo/sem09act17clase32/blob/master/catalogo.txt" data-pjax-transient>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+ es []
+La nueva lista de precios para   <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para <meta name="theme-color" content="#1e2327">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <meta name="u2f-support" content="true">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   </head>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <body class="logged-in env-production page-blob">
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <div class="position-relative js-header-wrapper ">
+ es []
+La nueva lista de precios para     <a href="#start-of-content" tabindex="1" class="bg-black text-white p-3 show-on-focus js-skip-to-content">Skip to content</a>
+ es []
+La nueva lista de precios para     <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         
+ es []
+La nueva lista de precios para <div class="header" role="banner">
+ es []
+La nueva lista de precios para   <div class="container clearfix">
+ es []
+La nueva lista de precios para     <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header es [0, 0]
+La nueva lista de precios para   <svg aria-hidden="true" class="octicon octicon-mark-github" height="32" version="1.1" viewBox="0 0 16 16" width="32"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+ es []
+La nueva lista de precios para </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
+ es []
+La nueva lista de precios para   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Luippo/sem09act17clase32/search" class="js-site-search-form" data-scoped-search-url="/Luippo/sem09act17clase32/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+ es []
+La nueva lista de precios para     <label class="form-control header-search-wrapper js-chromeless-input-container">
+ es []
+La nueva lista de precios para         <a href="/Luippo/sem09act17clase32/blob/master/catalogo.txt" class="header-search-scope no-underline">This repository</a>
+ es []
+La nueva lista de precios para       <input type="text"
+ es []
+La nueva lista de precios para         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
+ es []
+La nueva lista de precios para         data-hotkey="s"
+ es []
+La nueva lista de precios para         name="q"
+ es []
+La nueva lista de precios para         value=""
+ es []
+La nueva lista de precios para         placeholder="Search"
+ es []
+La nueva lista de precios para         aria-label="Search this repository"
+ es []
+La nueva lista de precios para         data-unscoped-placeholder="Search GitHub"
+ es []
+La nueva lista de precios para         data-scoped-placeholder="Search"
+ es []
+La nueva lista de precios para         autocapitalize="off">
+ es []
+La nueva lista de precios para         <input type="hidden" class="js-site-search-type-field" name="type" >
+ es []
+La nueva lista de precios para     </label>
+ es []
+La nueva lista de precios para </form></div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       <ul class="header-nav float-left" role="navigation">
+ es []
+La nueva lista de precios para         <li class="header-nav-item">
+ es []
+La nueva lista de precios para           <a href="/pulls" aria-label="Pull requests you created" class="js-selected-navigation-item header-nav-link" data-ga-click="Header es [0, 0]
+La nueva lista de precios para             Pull requests
+ es []
+La nueva lista de precios para </a>        </li>
+ es []
+La nueva lista de precios para         <li class="header-nav-item">
+ es []
+La nueva lista de precios para           <a href="/issues" aria-label="Issues you created" class="js-selected-navigation-item header-nav-link" data-ga-click="Header es [0, 0]
+La nueva lista de precios para             Issues
+ es []
+La nueva lista de precios para </a>        </li>
+ es []
+La nueva lista de precios para             <li class="header-nav-item">
+ es []
+La nueva lista de precios para               <a href="/marketplace" class="js-selected-navigation-item header-nav-link" data-ga-click="Header es [0, 0]
+La nueva lista de precios para                 Marketplace
+ es []
+La nueva lista de precios para </a>            </li>
+ es []
+La nueva lista de precios para           <li class="header-nav-item">
+ es []
+La nueva lista de precios para             <a class="header-nav-link" href="https://gist.github.com/" data-ga-click="Header es [0, 0]
+La nueva lista de precios para           </li>
+ es []
+La nueva lista de precios para       </ul>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para <ul class="header-nav user-nav float-right" id="user-links">
+ es []
+La nueva lista de precios para   <li class="header-nav-item">
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   </li>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <li class="header-nav-item dropdown js-menu-container">
+ es []
+La nueva lista de precios para     <a class="header-nav-link tooltipped tooltipped-s js-menu-target" href="/new"
+ es []
+La nueva lista de precios para        aria-label="Create new…"
+ es []
+La nueva lista de precios para        aria-expanded="false"
+ es []
+La nueva lista de precios para        aria-haspopup="true"
+ es []
+La nueva lista de precios para        data-ga-click="Header es [0, 0]
+La nueva lista de precios para       <svg aria-hidden="true" class="octicon octicon-plus float-left" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5z"/></svg>
+ es []
+La nueva lista de precios para       <span class="dropdown-caret"></span>
+ es []
+La nueva lista de precios para     </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <div class="dropdown-menu-content js-menu-content">
+ es []
+La nueva lista de precios para       <ul class="dropdown-menu dropdown-menu-sw">
+ es []
+La nueva lista de precios para         
+ es []
+La nueva lista de precios para <a class="dropdown-item" href="/new" data-ga-click="Header es [0]
+La nueva lista de precios para   New repository
+ es []
+La nueva lista de precios para </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <a class="dropdown-item" href="/new/import" data-ga-click="Header es [0]
+La nueva lista de precios para     Import repository
+ es []
+La nueva lista de precios para   </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para <a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header es [0]
+La nueva lista de precios para   New gist
+ es []
+La nueva lista de precios para </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <a class="dropdown-item" href="/organizations/new" data-ga-click="Header es [0]
+La nueva lista de precios para     New organization
+ es []
+La nueva lista de precios para   </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <div class="dropdown-divider"></div>
+ es []
+La nueva lista de precios para   <div class="dropdown-header">
+ es []
+La nueva lista de precios para     <span title="Luippo/sem09act17clase32">This repository</span>
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para     <a class="dropdown-item" href="/Luippo/sem09act17clase32/issues/new" data-ga-click="Header es [0]
+La nueva lista de precios para       New issue
+ es []
+La nueva lista de precios para     </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       </ul>
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para   </li>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <li class="header-nav-item dropdown js-menu-container">
+ es []
+La nueva lista de precios para     <a class="header-nav-link name tooltipped tooltipped-sw js-menu-target" href="/vladigonzalez"
+ es []
+La nueva lista de precios para        aria-label="View profile and more"
+ es []
+La nueva lista de precios para        aria-expanded="false"
+ es []
+La nueva lista de precios para        aria-haspopup="true"
+ es []
+La nueva lista de precios para        data-ga-click="Header es [0, 0]
+La nueva lista de precios para       <img alt="@vladigonzalez" class="avatar" src="https://avatars0.githubusercontent.com/u/28021246?v=3&amp;s=40" height="20" width="20">
+ es []
+La nueva lista de precios para       <span class="dropdown-caret"></span>
+ es []
+La nueva lista de precios para     </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <div class="dropdown-menu-content js-menu-content">
+ es []
+La nueva lista de precios para       <div class="dropdown-menu dropdown-menu-sw">
+ es []
+La nueva lista de precios para         <div class="dropdown-header header-nav-current-user css-truncate">
+ es []
+La nueva lista de precios para           Signed in as <strong class="css-truncate-target">vladigonzalez</strong>
+ es []
+La nueva lista de precios para         </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <div class="dropdown-divider"></div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <a class="dropdown-item" href="/vladigonzalez" data-ga-click="Header es [0, 0]
+La nueva lista de precios para           Your profile
+ es []
+La nueva lista de precios para         </a>
+ es []
+La nueva lista de precios para         <a class="dropdown-item" href="/vladigonzalez?tab=stars" data-ga-click="Header es [0, 0]
+La nueva lista de precios para           Your stars
+ es []
+La nueva lista de precios para         </a>
+ es []
+La nueva lista de precios para         <a class="dropdown-item" href="/explore" data-ga-click="Header es [0, 0]
+La nueva lista de precios para           Explore
+ es []
+La nueva lista de precios para         </a>
+ es []
+La nueva lista de precios para         <a class="dropdown-item" href="https://help.github.com" data-ga-click="Header es [0, 0]
+La nueva lista de precios para           Help
+ es []
+La nueva lista de precios para         </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <div class="dropdown-divider"></div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <a class="dropdown-item" href="/settings/profile" data-ga-click="Header es [0, 0]
+La nueva lista de precios para           Settings
+ es []
+La nueva lista de precios para         </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YCACQY0+bOFSW54HRk2a/KTMGj8CBJLUB1XU+OkvzOoinJs7DfT6HWPCsBv7ZfTCIDbUvYTWb04+ZP+HZvsCFA==" /></div>
+ es []
+La nueva lista de precios para           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header es [0, 0]
+La nueva lista de precios para             Sign out
+ es []
+La nueva lista de precios para           </button>
+ es []
+La nueva lista de precios para </form>      </div>
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para   </li>
+ es []
+La nueva lista de precios para </ul>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lLIYLbI6L7P2aksuxdO0/wYFt0tymDeYXSn+2JhVeSvWDoFXMvC5T8fzZTJ4+9rBgv95yfRKygJkGNWnF4G31Q==" /></div>
+ es []
+La nueva lista de precios para       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header es [0, 0]
+La nueva lista de precios para         Sign out
+ es []
+La nueva lista de precios para       </button>
+ es []
+La nueva lista de precios para </form>  </div>
+ es []
+La nueva lista de precios para </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <div id="start-of-content" class="show-on-focus"></div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <div id="js-flash-container">
+ es []
+La nueva lista de precios para </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <div role="main">
+ es []
+La nueva lista de precios para         <div itemscope itemtype="http://schema.org/SoftwareSourceCode">
+ es []
+La nueva lista de precios para     <div id="js-repo-pjax-container" data-pjax-container>
+ es []
+La nueva lista de precios para       
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav">
+ es []
+La nueva lista de precios para       <div class="container repohead-details-container">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <ul class="pagehead-actions">
+ es []
+La nueva lista de precios para   <li>
+ es []
+La nueva lista de precios para         <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="NzCFJfdN0OuLANF1Uds8Xo9vX14d/uZ1U0czh74qBSe6lNfvWQGypvwMLXeXgsCOmxhhvEQqWpb14kS1vPAXgA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="96266746" />
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <div class="select-menu js-menu-container js-select-menu">
+ es []
+La nueva lista de precios para           <a href="/Luippo/sem09act17clase32/subscription"
+ es []
+La nueva lista de precios para             class="btn btn-sm btn-with-count select-menu-button js-menu-target"
+ es []
+La nueva lista de precios para             role="button"
+ es []
+La nueva lista de precios para             aria-haspopup="true"
+ es []
+La nueva lista de precios para             aria-expanded="false"
+ es []
+La nueva lista de precios para             aria-label="Toggle repository notifications menu"
+ es []
+La nueva lista de precios para             data-ga-click="Repository es [0, 0]
+La nueva lista de precios para             <span class="js-select-button">
+ es []
+La nueva lista de precios para                 <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+ es []
+La nueva lista de precios para                 Watch
+ es []
+La nueva lista de precios para             </span>
+ es []
+La nueva lista de precios para           </a>
+ es []
+La nueva lista de precios para             <a class="social-count js-social-count"
+ es []
+La nueva lista de precios para               href="/Luippo/sem09act17clase32/watchers"
+ es []
+La nueva lista de precios para               aria-label="1 user is watching this repository">
+ es []
+La nueva lista de precios para               1
+ es []
+La nueva lista de precios para             </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <div class="select-menu-modal-holder">
+ es []
+La nueva lista de precios para           <div class="select-menu-modal subscription-menu-modal js-menu-content">
+ es []
+La nueva lista de precios para             <div class="select-menu-header js-navigation-enable" tabindex="-1">
+ es []
+La nueva lista de precios para               <svg aria-label="Close" class="octicon octicon-x js-menu-close" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+ es []
+La nueva lista de precios para               <span class="select-menu-title">Notifications</span>
+ es []
+La nueva lista de precios para             </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para               <div class="select-menu-list js-navigation-container" role="menu">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para                 <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+ es []
+La nueva lista de precios para                   <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+ es []
+La nueva lista de precios para                   <div class="select-menu-item-text">
+ es []
+La nueva lista de precios para                     <input checked="checked" id="do_included" name="do" type="radio" value="included" />
+ es []
+La nueva lista de precios para                     <span class="select-menu-item-heading">Not watching</span>
+ es []
+La nueva lista de precios para                     <span class="description">Be notified when participating or @mentioned.</span>
+ es []
+La nueva lista de precios para                     <span class="js-select-button-text hidden-select-button-text">
+ es []
+La nueva lista de precios para                       <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+ es []
+La nueva lista de precios para                       Watch
+ es []
+La nueva lista de precios para                     </span>
+ es []
+La nueva lista de precios para                   </div>
+ es []
+La nueva lista de precios para                 </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para                 <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+ es []
+La nueva lista de precios para                   <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+ es []
+La nueva lista de precios para                   <div class="select-menu-item-text">
+ es []
+La nueva lista de precios para                     <input id="do_subscribed" name="do" type="radio" value="subscribed" />
+ es []
+La nueva lista de precios para                     <span class="select-menu-item-heading">Watching</span>
+ es []
+La nueva lista de precios para                     <span class="description">Be notified of all conversations.</span>
+ es []
+La nueva lista de precios para                     <span class="js-select-button-text hidden-select-button-text">
+ es []
+La nueva lista de precios para                       <svg aria-hidden="true" class="octicon octicon-eye" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+ es []
+La nueva lista de precios para                         Unwatch
+ es []
+La nueva lista de precios para                     </span>
+ es []
+La nueva lista de precios para                   </div>
+ es []
+La nueva lista de precios para                 </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para                 <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+ es []
+La nueva lista de precios para                   <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+ es []
+La nueva lista de precios para                   <div class="select-menu-item-text">
+ es []
+La nueva lista de precios para                     <input id="do_ignore" name="do" type="radio" value="ignore" />
+ es []
+La nueva lista de precios para                     <span class="select-menu-item-heading">Ignoring</span>
+ es []
+La nueva lista de precios para                     <span class="description">Never be notified.</span>
+ es []
+La nueva lista de precios para                     <span class="js-select-button-text hidden-select-button-text">
+ es []
+La nueva lista de precios para                       <svg aria-hidden="true" class="octicon octicon-mute" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
+ es []
+La nueva lista de precios para                         Stop ignoring
+ es []
+La nueva lista de precios para                     </span>
+ es []
+La nueva lista de precios para                   </div>
+ es []
+La nueva lista de precios para                 </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para               </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para             </div>
+ es []
+La nueva lista de precios para           </div>
+ es []
+La nueva lista de precios para         </div>
+ es []
+La nueva lista de precios para </form>
+ es []
+La nueva lista de precios para   </li>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <li>
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para   <div class="js-toggler-container js-social-container starring-container ">
+ es []
+La nueva lista de precios para     <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Luippo/sem09act17clase32/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XEeI2bUNL/2s6IitcNs6tIQRQpwA1bz1+tGXgTRuHSVMf7lZdUK3GmggzfJ7ulXRmD3NXeJUzXnSiEYySrYH7w==" /></div>
+ es []
+La nueva lista de precios para       <button
+ es []
+La nueva lista de precios para         type="submit"
+ es []
+La nueva lista de precios para         class="btn btn-sm btn-with-count js-toggler-target"
+ es []
+La nueva lista de precios para         aria-label="Unstar this repository" title="Unstar Luippo/sem09act17clase32"
+ es []
+La nueva lista de precios para         data-ga-click="Repository es [0, 0]
+La nueva lista de precios para         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+ es []
+La nueva lista de precios para         Unstar
+ es []
+La nueva lista de precios para       </button>
+ es []
+La nueva lista de precios para         <a class="social-count js-social-count" href="/Luippo/sem09act17clase32/stargazers"
+ es []
+La nueva lista de precios para            aria-label="0 users starred this repository">
+ es []
+La nueva lista de precios para           0
+ es []
+La nueva lista de precios para         </a>
+ es []
+La nueva lista de precios para </form>
+ es []
+La nueva lista de precios para     <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Luippo/sem09act17clase32/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Lm6HrH7TxKccQGO9jm/FP1ua6SX5SYuz3juhM7p4BNyv5bK2MrtGeiLxE+J4G9iM6ILCVe0KvGLQJMohFouodw==" /></div>
+ es []
+La nueva lista de precios para       <button
+ es []
+La nueva lista de precios para         type="submit"
+ es []
+La nueva lista de precios para         class="btn btn-sm btn-with-count js-toggler-target"
+ es []
+La nueva lista de precios para         aria-label="Star this repository" title="Star Luippo/sem09act17clase32"
+ es []
+La nueva lista de precios para         data-ga-click="Repository es [0, 0]
+La nueva lista de precios para         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+ es []
+La nueva lista de precios para         Star
+ es []
+La nueva lista de precios para       </button>
+ es []
+La nueva lista de precios para         <a class="social-count js-social-count" href="/Luippo/sem09act17clase32/stargazers"
+ es []
+La nueva lista de precios para            aria-label="0 users starred this repository">
+ es []
+La nueva lista de precios para           0
+ es []
+La nueva lista de precios para         </a>
+ es []
+La nueva lista de precios para </form>  </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   </li>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <li>
+ es []
+La nueva lista de precios para           <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Luippo/sem09act17clase32/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XbABxQy8VHCRus+rtpAMkR3dOnAEwon8hZ6+nf0mB2GbNDMKzg9/33/NxfXeYlpvhWjTDaUBjhQQ4rD8VQKZww==" /></div>
+ es []
+La nueva lista de precios para             <button
+ es []
+La nueva lista de precios para                 type="submit"
+ es []
+La nueva lista de precios para                 class="btn btn-sm btn-with-count"
+ es []
+La nueva lista de precios para                 data-ga-click="Repository es [0, 0]
+La nueva lista de precios para                 title="Fork your own copy of Luippo/sem09act17clase32 to your account"
+ es []
+La nueva lista de precios para                 aria-label="Fork your own copy of Luippo/sem09act17clase32 to your account">
+ es []
+La nueva lista de precios para               <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+ es []
+La nueva lista de precios para               Fork
+ es []
+La nueva lista de precios para             </button>
+ es []
+La nueva lista de precios para </form>
+ es []
+La nueva lista de precios para     <a href="/Luippo/sem09act17clase32/network" class="social-count"
+ es []
+La nueva lista de precios para        aria-label="0 users forked this repository">
+ es []
+La nueva lista de precios para       0
+ es []
+La nueva lista de precios para     </a>
+ es []
+La nueva lista de precios para   </li>
+ es []
+La nueva lista de precios para </ul>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <h1 class="public ">
+ es []
+La nueva lista de precios para   <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+ es []
+La nueva lista de precios para   <span class="author" itemprop="author"><a href="/Luippo" class="url fn" rel="author">Luippo</a></span><!--
+ es []
+La nueva lista de precios para --><span class="path-divider">/</span><!--
+ es []
+La nueva lista de precios para --><strong itemprop="name"><a href="/Luippo/sem09act17clase32" data-pjax="#js-repo-pjax-container">sem09act17clase32</a></strong>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para </h1>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       </div>
+ es []
+La nueva lista de precios para       <div class="container">
+ es []
+La nueva lista de precios para         
+ es []
+La nueva lista de precios para <nav class="reponav js-repo-nav js-sidenav-container-pjax"
+ es []
+La nueva lista de precios para      itemscope
+ es []
+La nueva lista de precios para      itemtype="http://schema.org/BreadcrumbList"
+ es []
+La nueva lista de precios para      role="navigation"
+ es []
+La nueva lista de precios para      data-pjax="#js-repo-pjax-container">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+ es []
+La nueva lista de precios para     <a href="/Luippo/sem09act17clase32" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Luippo/sem09act17clase32" itemprop="url">
+ es []
+La nueva lista de precios para       <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+ es []
+La nueva lista de precios para       <span itemprop="name">Code</span>
+ es []
+La nueva lista de precios para       <meta itemprop="position" content="1">
+ es []
+La nueva lista de precios para </a>  </span>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+ es []
+La nueva lista de precios para       <a href="/Luippo/sem09act17clase32/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /Luippo/sem09act17clase32/issues" itemprop="url">
+ es []
+La nueva lista de precios para         <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+ es []
+La nueva lista de precios para         <span itemprop="name">Issues</span>
+ es []
+La nueva lista de precios para         <span class="Counter">0</span>
+ es []
+La nueva lista de precios para         <meta itemprop="position" content="2">
+ es []
+La nueva lista de precios para </a>    </span>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+ es []
+La nueva lista de precios para     <a href="/Luippo/sem09act17clase32/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /Luippo/sem09act17clase32/pulls" itemprop="url">
+ es []
+La nueva lista de precios para       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+ es []
+La nueva lista de precios para       <span itemprop="name">Pull requests</span>
+ es []
+La nueva lista de precios para       <span class="Counter">0</span>
+ es []
+La nueva lista de precios para       <meta itemprop="position" content="3">
+ es []
+La nueva lista de precios para </a>  </span>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <a href="/Luippo/sem09act17clase32/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /Luippo/sem09act17clase32/projects">
+ es []
+La nueva lista de precios para       <svg aria-hidden="true" class="octicon octicon-project" height="16" version="1.1" viewBox="0 0 15 16" width="15"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+ es []
+La nueva lista de precios para       Projects
+ es []
+La nueva lista de precios para       <span class="Counter" >0</span>
+ es []
+La nueva lista de precios para </a>
+ es []
+La nueva lista de precios para     <a href="/Luippo/sem09act17clase32/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /Luippo/sem09act17clase32/wiki">
+ es []
+La nueva lista de precios para       <svg aria-hidden="true" class="octicon octicon-book" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+ es []
+La nueva lista de precios para       Wiki
+ es []
+La nueva lista de precios para </a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <div class="reponav-dropdown js-menu-container">
+ es []
+La nueva lista de precios para       <button type="button" class="btn-link reponav-item reponav-dropdown js-menu-target " data-no-toggle aria-expanded="false" aria-haspopup="true">
+ es []
+La nueva lista de precios para         Insights
+ es []
+La nueva lista de precios para         <svg aria-hidden="true" class="octicon octicon-triangle-down v-align-middle text-gray" height="11" version="1.1" viewBox="0 0 12 16" width="8"><path fill-rule="evenodd" d="M0 5l6 6 6-6z"/></svg>
+ es []
+La nueva lista de precios para       </button>
+ es []
+La nueva lista de precios para       <div class="dropdown-menu-content js-menu-content">
+ es []
+La nueva lista de precios para         <div class="dropdown-menu dropdown-menu-sw">
+ es []
+La nueva lista de precios para           <a class="dropdown-item" href="/Luippo/sem09act17clase32/pulse" data-skip-pjax>
+ es []
+La nueva lista de precios para             <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"/></svg>
+ es []
+La nueva lista de precios para             Pulse
+ es []
+La nueva lista de precios para           </a>
+ es []
+La nueva lista de precios para           <a class="dropdown-item" href="/Luippo/sem09act17clase32/graphs" data-skip-pjax>
+ es []
+La nueva lista de precios para             <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+ es []
+La nueva lista de precios para             Graphs
+ es []
+La nueva lista de precios para           </a>
+ es []
+La nueva lista de precios para         </div>
+ es []
+La nueva lista de precios para       </div>
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para </nav>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       </div>
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para <div class="container new-discussion-timeline experiment-repo-nav">
+ es []
+La nueva lista de precios para   <div class="repository-content">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para   <a href="/Luippo/sem09act17clase32/blob/a605d17da940860406b7eff60a63651efa00b128/catalogo.txt" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <!-- blob contrib key: blob_contributors:v21:04596ff18c0150a1b7e457cb54d4c503 -->
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <div class="file-navigation js-zeroclipboard-container">
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para <div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
+ es []
+La nueva lista de precios para   <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para     type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
+ es []
+La nueva lista de precios para       <i>Branch:</i>
+ es []
+La nueva lista de precios para       <span class="js-select-button css-truncate-target">master</span>
+ es []
+La nueva lista de precios para   </button>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <div class="select-menu-modal">
+ es []
+La nueva lista de precios para       <div class="select-menu-header">
+ es []
+La nueva lista de precios para         <svg aria-label="Close" class="octicon octicon-x js-menu-close" height="16" role="img" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+ es []
+La nueva lista de precios para         <span class="select-menu-title">Switch branches/tags</span>
+ es []
+La nueva lista de precios para       </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       <div class="select-menu-filters">
+ es []
+La nueva lista de precios para         <div class="select-menu-text-filter">
+ es []
+La nueva lista de precios para           <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+ es []
+La nueva lista de precios para         </div>
+ es []
+La nueva lista de precios para         <div class="select-menu-tabs">
+ es []
+La nueva lista de precios para           <ul>
+ es []
+La nueva lista de precios para             <li class="select-menu-tab">
+ es []
+La nueva lista de precios para               <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
+ es []
+La nueva lista de precios para             </li>
+ es []
+La nueva lista de precios para             <li class="select-menu-tab">
+ es []
+La nueva lista de precios para               <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+ es []
+La nueva lista de precios para             </li>
+ es []
+La nueva lista de precios para           </ul>
+ es []
+La nueva lista de precios para         </div>
+ es []
+La nueva lista de precios para       </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para             <a class="select-menu-item js-navigation-item js-navigation-open selected"
+ es []
+La nueva lista de precios para                href="/Luippo/sem09act17clase32/blob/master/catalogo.txt"
+ es []
+La nueva lista de precios para                data-name="master"
+ es []
+La nueva lista de precios para                data-skip-pjax="true"
+ es []
+La nueva lista de precios para                rel="nofollow">
+ es []
+La nueva lista de precios para               <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+ es []
+La nueva lista de precios para               <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+ es []
+La nueva lista de precios para                 master
+ es []
+La nueva lista de precios para               </span>
+ es []
+La nueva lista de precios para             </a>
+ es []
+La nueva lista de precios para         </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para           <div class="select-menu-no-results">Nothing to show</div>
+ es []
+La nueva lista de precios para       </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+ es []
+La nueva lista de precios para         <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <div class="select-menu-no-results">Nothing to show</div>
+ es []
+La nueva lista de precios para       </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <div class="BtnGroup float-right">
+ es []
+La nueva lista de precios para       <a href="/Luippo/sem09act17clase32/find/master"
+ es []
+La nueva lista de precios para             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+ es []
+La nueva lista de precios para             data-pjax
+ es []
+La nueva lista de precios para             data-hotkey="t">
+ es []
+La nueva lista de precios para         Find file
+ es []
+La nueva lista de precios para       </a>
+ es []
+La nueva lista de precios para       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para     <div class="breadcrumb js-zeroclipboard-target">
+ es []
+La nueva lista de precios para       <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/Luippo/sem09act17clase32"><span>sem09act17clase32</span></a></span></span><span class="separator">/</span><strong class="final-path">catalogo.txt</strong>
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <include-fragment class="commit-tease" src="/Luippo/sem09act17clase32/contributors/master/catalogo.txt">
+ es []
+La nueva lista de precios para     <div>
+ es []
+La nueva lista de precios para       Fetching contributors&hellip;
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <div class="commit-tease-contributors">
+ es []
+La nueva lista de precios para       <img alt="" class="loader-loading float-left" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" />
+ es []
+La nueva lista de precios para       <span class="loader-error">Cannot retrieve contributors at this time</span>
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para </include-fragment>
+ es []
+La nueva lista de precios para   <div class="file">
+ es []
+La nueva lista de precios para     <div class="file-header">
+ es []
+La nueva lista de precios para   <div class="file-actions">
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <div class="BtnGroup">
+ es []
+La nueva lista de precios para       <a href="/Luippo/sem09act17clase32/raw/master/catalogo.txt" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+ es []
+La nueva lista de precios para         <a href="/Luippo/sem09act17clase32/blame/master/catalogo.txt" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+ es []
+La nueva lista de precios para       <a href="/Luippo/sem09act17clase32/commits/master/catalogo.txt" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para         <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Luippo/sem09act17clase32/edit/master/catalogo.txt" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kEUEN/9DeIBMuGbFhfqKvkWDn5zTJ/S6EOJae4XLYpU7kXtrSrdj646kw+VReA0z6M6XUhqJIZQxB0HJlq0Fag==" /></div>
+ es []
+La nueva lista de precios para           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+ es []
+La nueva lista de precios para             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
+ es []
+La nueva lista de precios para             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+ es []
+La nueva lista de precios para           </button>
+ es []
+La nueva lista de precios para </form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/Luippo/sem09act17clase32/delete/master/catalogo.txt" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ais/3SWYNF0HidVZeeWdY/uxibSO8GYPlokiS440xQZODDmKLx58IXmdqrGpaH/EtsE4EkhiUxHuakB4LuohHA==" /></div>
+ es []
+La nueva lista de precios para           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+ es []
+La nueva lista de precios para             aria-label="Fork this project and delete the file" data-disable-with>
+ es []
+La nueva lista de precios para             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+ es []
+La nueva lista de precios para           </button>
+ es []
+La nueva lista de precios para </form>  </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <div class="file-info">
+ es []
+La nueva lista de precios para       5 lines (5 sloc)
+ es []
+La nueva lista de precios para       <span class="file-info-divider"></span>
+ es []
+La nueva lista de precios para     163 Bytes
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <div itemprop="text" class="blob-wrapper data type-text">
+ es []
+La nueva lista de precios para       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+ es []
+La nueva lista de precios para       <tr>
+ es []
+La nueva lista de precios para         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+ es []
+La nueva lista de precios para         <td id="LC1" class="blob-code blob-code-inner js-file-line">Polera es [10990, 7990, 4990]
+La nueva lista de precios para       </tr>
+ es []
+La nueva lista de precios para       <tr>
+ es []
+La nueva lista de precios para         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+ es []
+La nueva lista de precios para         <td id="LC2" class="blob-code blob-code-inner js-file-line">Jeans es [14990, 10990, 7990]
+La nueva lista de precios para       </tr>
+ es []
+La nueva lista de precios para       <tr>
+ es []
+La nueva lista de precios para         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+ es []
+La nueva lista de precios para         <td id="LC3" class="blob-code blob-code-inner js-file-line">Poleron es [12990, 8990, 5990]
+La nueva lista de precios para       </tr>
+ es []
+La nueva lista de precios para       <tr>
+ es []
+La nueva lista de precios para         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+ es []
+La nueva lista de precios para         <td id="LC4" class="blob-code blob-code-inner js-file-line">Chaleco es [11990, 8990, 6990]
+La nueva lista de precios para       </tr>
+ es []
+La nueva lista de precios para       <tr>
+ es []
+La nueva lista de precios para         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+ es []
+La nueva lista de precios para         <td id="LC5" class="blob-code blob-code-inner js-file-line">Parka es [19990, 14990, 11990]
+La nueva lista de precios para       </tr>
+ es []
+La nueva lista de precios para </table>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
+ es []
+La nueva lista de precios para   <div id="jump-to-line" style="display:none">
+ es []
+La nueva lista de precios para     <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+ es []
+La nueva lista de precios para       <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+ es []
+La nueva lista de precios para       <button type="submit" class="btn">Go</button>
+ es []
+La nueva lista de precios para </form>  </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para   <div class="modal-backdrop js-touch-events"></div>
+ es []
+La nueva lista de precios para </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para       
+ es []
+La nueva lista de precios para <div class="container site-footer-container">
+ es []
+La nueva lista de precios para   <div class="site-footer " role="contentinfo">
+ es []
+La nueva lista de precios para     <ul class="site-footer-links float-right">
+ es []
+La nueva lista de precios para         <li><a href="https://github.com/contact" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para       <li><a href="https://developer.github.com" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para       <li><a href="https://training.github.com" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para       <li><a href="https://shop.github.com" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para         <li><a href="https://github.com/blog" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para         <li><a href="https://github.com/about" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     </ul>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     <a href="https://github.com" aria-label="Homepage" class="site-footer-mark" title="GitHub">
+ es []
+La nueva lista de precios para       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+ es []
+La nueva lista de precios para </a>
+ es []
+La nueva lista de precios para     <ul class="site-footer-links">
+ es []
+La nueva lista de precios para       <li>&copy; 2017 <span title="0.16119s from unicorn-1088228841-s9vzw">GitHub</span> es [0]
+La nueva lista de precios para         <li><a href="https://github.com/site/terms" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para         <li><a href="https://github.com/site/privacy" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para         <li><a href="https://github.com/security" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para         <li><a href="https://status.github.com/" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para         <li><a href="https://help.github.com" data-ga-click="Footer es [0, 0]
+La nueva lista de precios para     </ul>
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+ es []
+La nueva lista de precios para     <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+ es []
+La nueva lista de precios para     <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+ es []
+La nueva lista de precios para       <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+ es []
+La nueva lista de precios para     </button>
+ es []
+La nueva lista de precios para     You can't perform that action at this time.
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para     <script crossorigin="anonymous" integrity="sha256-4hJql+6bW6S9r9DUL0kQ3LKLnx3wupYfjaWFDfvkA9s=" src="https://assets-cdn.github.com/assets/frameworks-e2126a97ee9b5ba4bdafd0d42f4910dcb28b9f1df0ba961f8da5850dfbe403db.js"></script>
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para     <script async="async" crossorigin="anonymous" integrity="sha256-EwSjchy8VcnU5iaBtbpZzbcWSRqe4nGo2+z+guPYT0w=" src="https://assets-cdn.github.com/assets/github-1304a3721cbc55c9d4e62681b5ba59cdb716491a9ee271a8dbecfe82e3d84f4c.js"></script>
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para     
+ es []
+La nueva lista de precios para   <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+ es []
+La nueva lista de precios para     <svg aria-hidden="true" class="octicon octicon-alert" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+ es []
+La nueva lista de precios para     <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+ es []
+La nueva lista de precios para     <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para   <div class="facebox" id="facebox" style="display:none;">
+ es []
+La nueva lista de precios para   <div class="facebox-popup">
+ es []
+La nueva lista de precios para     <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+ es []
+La nueva lista de precios para     </div>
+ es []
+La nueva lista de precios para     <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+ es []
+La nueva lista de precios para       <svg aria-hidden="true" class="octicon octicon-x" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+ es []
+La nueva lista de precios para     </button>
+ es []
+La nueva lista de precios para   </div>
+ es []
+La nueva lista de precios para </div>
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para 
+ es []
+La nueva lista de precios para   </body>
+ es []
+La nueva lista de precios para </html>
+ es []
+La nueva lista de precios para 
+ es []
