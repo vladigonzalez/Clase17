@@ -16,5 +16,5 @@ class Morseable
 		self.generate_hash(@number)
 	end
 end
-m = Morseable.new(3)
+m = Morseable.new(1)
 print m.to_morse

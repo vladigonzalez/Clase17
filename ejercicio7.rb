@@ -35,7 +35,7 @@ end
 
 new_product_list = []
 
-file = File.open("nuevo_catalogo.txt", "w")
+file = File.open("newcatalogo.txt", "w")
 products_list.each do |line|
 	new_product_list = line.new_catalogo
 	file.puts "La nueva lista de precios para #{line.name} es #{new_product_list}"
